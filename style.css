@@ -60,7 +60,7 @@ h4{
   padding-left: 20px;
   line-height: 30px;
 }
-.focus-content .stay-focus {
+.focus-content .focus-heading {
   font-family: 'Yeseva One', cursive;
 }
 .focus-heading-mission {
@@ -117,4 +117,20 @@ h4{
 .community-content {
   padding-right: 70px;
   padding-top: 30px;
+}
+
+/* === Footer Area CSS === */
+.footer {
+  text-align: center;
+  padding: 60px 0;
+  background-color: #000;
+  color: #fff;
+}
+.footer h3{
+  font-family: 'Lobster', cursive;
+  letter-spacing: 1.5px;
+  color: #fff;
+}
+.footer h3 span{
+  color: #FF5959;
 }
