@@ -134,3 +134,22 @@ h4{
 .footer h3 span{
   color: #FF5959;
 }
+
+
+/* === Project Area CSS === */
+.services-area h2 {
+  text-align: center;
+}
+.services-area h2 span {
+  color: #FFAD5A;
+}
+.service-item {
+  padding: 20px 30px;
+  border-radius: 30px;
+  box-shadow: 2px 2px 40px #444;
+  text-align: justify;
+  margin: 0 15px;
+}
+.service-item h3 {
+  text-align: center;
+}
