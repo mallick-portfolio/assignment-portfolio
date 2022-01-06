@@ -3,3 +3,33 @@ body {
   padding: 0;
   font-family: 'Poppins', sans-serif;
 }
+h1{
+  font-size: 60px;
+}
+h2{
+  font-size: 48px;
+}
+h3{
+  font-size: 36px;
+}
+h4{
+  font-size: 24px;
+}
+.flex-content{
+  display: flex;
+}
+.half-width{
+  width: 40%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.one-third{
+  width: 25%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.two-third{
+  width: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
