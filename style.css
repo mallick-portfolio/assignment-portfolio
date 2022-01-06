@@ -22,7 +22,7 @@ h4{
   display: flex;
   margin-bottom: 100px;
 }
-.full-width {
+.container {
   width: 90%;
   padding-left: 5%;
   padding-right: 5%;
